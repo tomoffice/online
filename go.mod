@@ -1,3 +1,3 @@
-module github.com/tomoffice/CICD
+module github.com/tomoffice/online
 
 go 1.19
