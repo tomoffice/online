@@ -1,4 +1,4 @@
-package online
+package main
 
 import t "github.com/tomoffice/online/mymod"
 
