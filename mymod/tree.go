@@ -3,5 +3,5 @@ package mymod
 import "fmt"
 
 func Tree() {
-	fmt.Println("Tree called ed")
+	fmt.Println("Tree called ed ed")
 }
